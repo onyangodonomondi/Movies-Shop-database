@@ -28,6 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['powerful-tor-49229.herokuapp.com']
 
+CORS_ALLOW_ALL_ORIGINS = True
 
 # Application definition
 
